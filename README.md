@@ -1,3 +1,3 @@
-- > first we have to create account for a user and then we have to preform banking operations
-  > user can check the bank balance
-  > user can withdraw and deposit money
+: Developed a backend for bank application using spring boot, that allows users to create account and
+withdraw money, deposit money and delete account as needed and also allowing such actions get account by id.
+This uses express and MySQL database for the backend.
